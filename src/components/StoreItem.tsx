@@ -27,14 +27,13 @@ export function StoreItem({ id, name, price, image, description, category }: Sto
             border="primary"
             style={{ width: "18rem" }}
         >
-            {/* Wrap only the image with the Link */}
             <Link to={`/store/product/${id}`}>
                 <Card.Img
                     variant="top"
                     src={image}
                     height="180px"
                     className="mb-2"
-                    style={{ objectFit: "cover", cursor: "pointer" }} // Add cursor pointer for better UX
+                    style={{ objectFit: "cover", cursor: "pointer" }} 
                 />
             </Link>
 
