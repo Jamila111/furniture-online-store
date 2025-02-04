@@ -31,7 +31,6 @@ export function Store() {
                 <Row xs={1} sm={1} md={2} lg={3} className="g-3">
                     {filteredItems.map((item) => (
                         <Col key={item.id}>
-                            {/* Remove the Link wrapper here */}
                             <StoreItem {...item} />
                         </Col>
                     ))}
