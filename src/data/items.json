@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Minimalist Sofa",
+    "price": 799.99,
+    "description": "Contemporary 3-seater sofa in light gray",
+    "image": "/images/minimalist-sofa.jpg",
+    "category": "Sofa"
+  },
+  {
+    "id": 2,
+    "name": "Wooden Dining Table",
+    "price": 599.99,
+    "description": "Solid oak dining table for 6 people",
+    "image": "/images/dining-table.jpg",
+    "category": "Table"
+  },
+  {
+    "id": 3,
+    "name": "Queen Size Bed",
+    "price": 899.99,
+    "description": "Comfortable queen bed with padded headboard",
+    "image": "/images/queen-bed.jpg",
+    "category": "Bed"
+  },
+  {
+    "id": 4,
+    "name": "Coffee Table",
+    "price": 199.99,
+    "description": "Modern glass-top coffee table",
+    "image": "/images/coffee-table.jpg",
+    "category": "Table"
+  },
+  {
+    "id": 5,
+    "name": "Sectional Sofa",
+    "price": 1299.99,
+    "description": "Large L-shaped sectional in rich brown leather",
+    "image": "/images/sectional-sofa.jpg",
+    "category": "Sofa"
+  },
+  {
+    "id": 6,
+    "name": "King Size Bed Frame",
+    "price": 1099.99,
+    "description": "Luxurious wooden king bed frame with storage",
+    "image": "/images/king-bed.jpg",
+    "category": "Bed"
+  }
+]
