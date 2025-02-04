@@ -45,9 +45,9 @@ export function Navbar() {
 
     const handleKeyPress = (e: React.KeyboardEvent<HTMLInputElement>) => {
         if (e.key === 'Enter') {
-            e.preventDefault(); // Prevent form submission
+            e.preventDefault(); 
             navigate(`/store?search=${searchText}`);
-            setSearchText(''); // Clear the search input
+            setSearchText(''); 
         }
     };
 
