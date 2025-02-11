@@ -5,7 +5,8 @@
     "price": 799.99,
     "description": "Contemporary 3-seater sofa in light gray",
     "image": "/images/minimalist-sofa.jpg",
-    "category": "Sofa"
+    "category": "Sofa",
+    "rating": [5, 4, 4, 3, 5, 4, 4, 5]
   },
   {
     "id": 2,
@@ -13,7 +14,9 @@
     "price": 599.99,
     "description": "Solid oak dining table for 6 people",
     "image": "/images/dining-table.jpg",
-    "category": "Table"
+    "category": "Table",
+    "rating": [4, 5, 4, 5, 5, 4, 4]
+
   },
   {
     "id": 3,
@@ -21,7 +24,9 @@
     "price": 899.99,
     "description": "Comfortable queen bed with padded headboard",
     "image": "/images/queen-bed.jpg",
-    "category": "Bed"
+    "category": "Bed",
+    "rating": [4, 4, 4, 5, 5, 5, 5, 5]
+
   },
   {
     "id": 4,
@@ -29,7 +34,9 @@
     "price": 199.99,
     "description": "Modern glass-top coffee table",
     "image": "/images/coffee-table.jpg",
-    "category": "Table"
+    "category": "Table",
+    "rating": [3, 5, 5, 4, 5]
+
   },
   {
     "id": 5,
@@ -37,7 +44,9 @@
     "price": 1299.99,
     "description": "Large L-shaped sectional in rich brown leather",
     "image": "/images/sectional-sofa.jpg",
-    "category": "Sofa"
+    "category": "Sofa",
+    "rating": [5, 4, 4, 5, 4, 4, 5, 4]
+
   },
   {
     "id": 6,
@@ -45,6 +54,8 @@
     "price": 1099.99,
     "description": "Luxurious wooden king bed frame with storage",
     "image": "/images/king-bed.jpg",
-    "category": "Bed"
+    "category": "Bed",
+    "rating": [4, 4, 4, 5, 5, 5]
+
   }
 ]
